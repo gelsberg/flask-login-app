@@ -1,0 +1,4 @@
+open app folder
+cd app
+activate env 
+source env/bin/activate

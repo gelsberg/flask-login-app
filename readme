@@ -2,3 +2,5 @@ open app folder
 cd app
 activate env 
 source env/bin/activate
+# Flask Login App
+This project demonstrates a simple Flask-based login and signup system.
